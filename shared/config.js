@@ -17,6 +17,7 @@ retrieved by the app from the cloud on start up.
 */
 
 var config = {
+  date   : '2013-07-16 @ 16:25 IST (GMT+1)',
   param1 : 'Initial value',
   param2 : true
 };
